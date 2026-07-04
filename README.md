@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Ibrahim 👋
 
-<!--
-**IskandarovIbrahim/IskandarovIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Engineering student at RWTH Aachen University** interested in **AI, embedded systems, microcontrollers, and software-hardware integration**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I’m Learning / Using
+
+- Python
+- C / C++
+- JavaScript / TypeScript
+- Microcontrollers
+- Embedded Systems
+- Machine Learning
+- Git & GitHub
+- Linux
+- HTML / CSS
+
+---
+
+## 🎯 Current Goals
+
+- Build strong GitHub projects with real engineering value
+- Improve my AI and embedded systems skills
+- Create physical projects with microcontrollers and sensors
+- Prepare for internships and technical student jobs
